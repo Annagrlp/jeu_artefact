@@ -47,11 +47,11 @@ Chaque module (ou palier) contient deux scripts principaux :
 ## 🗂️ Structure des modules
 | Module | Nom                       | Objectif                                               | Mécanique principale                                                                                                  |
 | ------ | ------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| 1      | Le Journal des Opérations | Trouver le mot secret                                  | Lire les fichiers du journal, résoudre une opération mathématique et identifier la bonne page contenant le mot secret |
+| 1      | Neutralisation des défenses | Trouver le mot secret                                  | Lire les fichiers du journal, résoudre une opération mathématique et identifier la bonne page contenant le mot secret |
 | 2      | Le Cercle des Runes       | Identifier la rune correcte                            | Chaque rune a 3 battements ; seule la rune dont la somme des battements est un nombre premier est correcte            |
-| 3      | Le Système Central        | Déverrouiller la clé d’accès                           | Ouvrir le fichier `cle_access`, convertir le code binaire en décimal, puis saisir la clé dans le terminal             |
+| 3      | Le Verrou des permissions       | Déverrouiller la clé d’accès                           | Ouvrir le fichier `cle_access`, convertir le code binaire en décimal, puis saisir la clé dans le terminal             |
 | 4      | La Chambre des Échos      | Bloquer un compte corrompu et créer un utilisateur sûr | Simuler la gestion d’utilisateurs et de permissions                                                                   |
-| 5      | Le Chant des Suites       | Calculer le code final                                 | Observer une suite de Fibonacci affichée et saisir la somme des nombres comme code d’activation final                 |
+| 5      | L'éveil du coeur de l'artefact     | Calculer le code final                                 | Observer une suite de Fibonacci affichée et saisir la somme des nombres comme code d’activation final                 |
 
 ## 💡 Conseils pour jouer
 
