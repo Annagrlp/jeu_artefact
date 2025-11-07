@@ -66,7 +66,7 @@ Chaque module (ou palier) contient deux scripts principaux :
 - Chercher un mot dans un fichier : grep "mot" fichier.txt
 - Déplacer/copier un fichier : mv source destination / cp source destination
 - Créer un fichier vide : touch fichier.txt
-
-## Amusez-vous bien et déchiffrez l’artefact jusqu’au bout !
 - Modifier les permissions : chmod 740 fichier.sh
 - Éditer un fichier : vi fichier.txt
+
+## Amusez-vous bien et déchiffrez l’artefact jusqu’au bout !
